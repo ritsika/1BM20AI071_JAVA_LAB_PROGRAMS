@@ -1,4 +1,4 @@
-package LabCycle2;
+
 
 // Inheritence type is hybrid
 class A{
